@@ -2,7 +2,7 @@ package retro
 
 import "strings"
 
-func retros(s string) string {
-	return "Orxan Necefli" + strings.ToUpper(s)
+func Retros(s string) string {
+	return "orxan necefli" + strings.ToUpper(s)
 
 }
