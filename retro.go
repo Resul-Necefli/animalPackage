@@ -1,4 +1,4 @@
-package retro
+package Retro
 
 import "strings"
 
